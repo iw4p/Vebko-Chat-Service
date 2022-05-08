@@ -1,0 +1,15 @@
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\bin\Debug\vebkoSignalRClientNetFramework4.exe
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\bin\Debug\vebkoSignalRClientNetFramework4.pdb
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\obj\Debug\vebkoSignalRClientNetFramework4.csproj.AssemblyReference.cache
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\obj\Debug\vebkoSignalRClientNetFramework4.Form1.resources
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\obj\Debug\vebkoSignalRClientNetFramework4.Properties.Resources.resources
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\obj\Debug\vebkoSignalRClientNetFramework4.csproj.GenerateResource.cache
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\obj\Debug\vebkoSignalRClientNetFramework4.csproj.CoreCompileInputs.cache
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\obj\Debug\vebkoSignalRClientNetFramework4.csproj.CopyComplete
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\obj\Debug\vebkoSignalRClientNetFramework4.exe
+C:\Users\11\Desktop\vebkoSignalRClientNetFramework4\vebkoSignalRClientNetFramework4\obj\Debug\vebkoSignalRClientNetFramework4.pdb
