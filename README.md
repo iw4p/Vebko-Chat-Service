@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://vebko.org/en/Software.aspx)
 
 Web-based Chat service for Vebko
 This project uses SignalR for sending data and notifications to Windows Form.
