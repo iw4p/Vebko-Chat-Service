@@ -83,7 +83,9 @@ io.on('connection', (socket) => {
   
   socket.on('callingSocket', (data: any) => {
     let adminID: string = adminDict.get('admin')!;
-    io.in(adminID).emit('callingSocket', data);
+    let modifiedData: string = data.roomID + '~!@#$' + data.UserName + '~!@#$' + data.to
+    io.in(adminID).emit('callingSocket', modifiedData);
+    // io.in(adminID).emit('callingSocket', 'data');
   })
 
   socket.on('getAllUsersForClient', (user: User) => {
