@@ -90,6 +90,7 @@ to install front and back:
 
 1. Clone the repe
 2. Install NPM packages
+ 
    ```sh
    npm install
    ```
