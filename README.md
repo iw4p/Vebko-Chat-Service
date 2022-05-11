@@ -56,7 +56,7 @@ This project uses SignalR for sending data and notifications to Windows Form.
 
 Here's why:
 * There is not a good and clear library to use SocketIO on .NET Framework 4
-* .NET Framework version was too old because we need support winXP :smile:
+* .NET Framework version was too old because we have to support winXP :smile:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
