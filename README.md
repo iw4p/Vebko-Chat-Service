@@ -56,7 +56,7 @@ This project uses SignalR for sending data and notifications to Windows Form.
 
 Here's why:
 * There is not a good and clear library to use SocketIO on .NET Framework 4
-* .NET version was too old. :smile:
+* .NET Framework version was too old. :smile:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -67,11 +67,12 @@ Here's why:
 React - Tailwind - Typescript for Front-End
 Type Script for Back-End
 SocketIO
-SignalR
+SignalR Self Host
 
 * [React.js](https://reactjs.org/)
 * [Tailwind](https://tailwindcss.com/)
 * [typescript](https://www.typescriptlang.org/)
+* [.Net Framework 4](https://www.microsoft.com/en-gb/download/details.aspx?id=17851)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
