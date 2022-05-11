@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/iw4p/Vebko-Chat-Service">
+  <a href="https://vebko.org/en/Default.aspx">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
