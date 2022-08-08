@@ -16,9 +16,6 @@
 
   <p align="center">
     A chat service for Vebko company using React and TypeScript, Compatible with .NET Framework 4.
-    <br />
-    <a href="https://github.com/iw4p/Vebko-Chat-Service">View Demo</a>
-  </p>
 </div>
 
 
