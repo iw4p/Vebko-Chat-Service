@@ -68,7 +68,7 @@ SignalR Self Host
 
 * [React.js](https://reactjs.org/)
 * [Tailwind](https://tailwindcss.com/)
-* [typescript](https://www.typescriptlang.org/)
+* [TypeScript](https://www.typescriptlang.org/)
 * [.Net Framework 4](https://www.microsoft.com/en-gb/download/details.aspx?id=17851)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
